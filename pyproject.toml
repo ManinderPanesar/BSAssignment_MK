@@ -1,0 +1,19 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "Analysis"
+authors = [
+    {name = "Maninder Kaur", email = "maninder.panesar@gmail.com"},
+]
+description = "A project for analysing GitHub repositories data"
+version = "0.1.0"
+dependencies = ["matplotlib", "pandas", "requests", "pyyaml"]
+requires-python = ">=3.9.6"
+readme = "README.md"
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+]
+
+

@@ -1,0 +1,6 @@
+#User-specific overrides for configuration settings
+
+#Plotting Preferences
+plot_settings:
+  color: "green"
+  title: "User's Github Repo Data Analysis"

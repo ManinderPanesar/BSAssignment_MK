@@ -1,0 +1,11 @@
+dataset:  
+
+plot_config:
+  title: "Github Repo Data Analysis"
+  x_axis_title: Published Year
+  y_axis_title: Repository Name 
+
+columns:
+ - Created_at
+ - Published_Year
+ - name

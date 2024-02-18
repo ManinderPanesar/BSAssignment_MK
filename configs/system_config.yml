@@ -1,0 +1,19 @@
+#System-wide configuration settings
+
+#API Settings
+api_key: "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" 
+username: "ManinderPanesar"
+
+#notification string
+ntfy_sh_topic: "Repo analyis"
+
+#Plotting details
+plot_settings:
+  color: "blue"
+  title: "Github Repo Data Analysis"
+  x_axis_title: Year
+  y_axis_title: Number of Repositories
+  figure_size: letter
+
+
+
