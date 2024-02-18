@@ -1,7 +1,7 @@
 #System-wide configuration settings
 
 #API Settings
-api_key: "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" 
+api_key: "DEMO_KEY" 
 username: "ManinderPanesar"
 
 #notification string
